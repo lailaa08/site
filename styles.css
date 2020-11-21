@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+.header {
+    padding: 50px 20px 50px;
+    background-color: #0bd3c2;
+    
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0px auto;
+}
+
+h2 {
+    color: #07a195;
+}
+
+h3 {
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+.bio{
+    width: 400px;
+    margin: 50px auto 50px auto;
+}
+
+img {
+    border-radius: 50%;
+}
+
+a {
+    text-decoration: none;
+    color: #07a195;
+    padding: 0 5px;
+}
+
+hr {
+    width: 10%;
+    border-style: none;
+    border-top: dotted;
+    border-color: #07a19460;
+    border-width: 5px;
+}
+
+.project {
+    width: 400px;
+    margin: 50px auto 50px auto;
+    
+}
+
+.covid {
+    text-align: left;
+    line-height: 2;
+}
+
+.uvo {
+    text-align: left;
+    line-height: 2;
+}
+
+.learnify {
+    text-align: left;
+    line-height: 2;
+}
+
+.left-img{ 
+    color: red; 
+    float: left;
+}
+
+.right-img{ 
+    color: green; 
+    float: right;
+}
+
+.bookleft{  
+    float: left;
+}
+
+.left-img, .bookleft, .right-img {
+    height: 25%;
+    width: 25%;
+    margin: 30px;
+}
+
+.icon{
+    color: black;
+    font-size: 1.5rem;
+}
+
+.footer{
+    padding: 30px;
+    background-color: #0bd3c2;
+}
+
+.contact-link:hover{
+    color: #FFFFFF;
+}
